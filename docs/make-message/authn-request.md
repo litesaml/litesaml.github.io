@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Make AuthnRequest
+parent: Make Message
 nav_order: 1
 ---
 

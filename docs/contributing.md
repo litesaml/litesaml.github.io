@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Contributing
+nav_order: 6
 ---
 
 *Stay tune...*
